@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+*.swo
+.hg/*
+.hgignore
+.ropeproject
+.pydevproject
+.project
+\#*
+\.#*
+virtualenv
+.env
+lib
+build
+dist
